@@ -1,0 +1,14 @@
+ 
+Dominio1
+
+/u01/wars/2018/INC-2018-007534/1-7-0/student-tracking.war
+
+
+Dominio3
+/u01/wars/2018/RFC-2018-000059/1-5-0/api-banner.war
+
+
+
+Dominio2
+/u01/wars/2016/apis/INC-2016-000699/1-0/api-seguridad.war
+/u01/wars/2018/INC-2018-002613/1-6-0/ws-ebc.war
